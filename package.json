@@ -14,7 +14,7 @@
   "devDependencies": {
     "@behaver/jdate": "^2.3.2",
     "chai": "^4.2.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.2.0"
   },
   "scripts": {
     "test": "mocha test"
